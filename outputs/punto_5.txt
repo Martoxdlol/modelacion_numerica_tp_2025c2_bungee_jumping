@@ -1,0 +1,18 @@
+==================================================
+PUNTO 7: Dimensionamiento CON Resistencia del Aire
+==================================================
+Iniciando búsqueda de parámetros...
+Condiciones: 135.0m < y_max < 150.0m | |a_max| < 24.53 m/s^2
+  Probando: k1 = 12.250, k2 = 1.0...
+¡Solución encontrada!                       
+
+--- Resultados (Con Aire) ---
+Parámetros encontrados: k1 = 12.2500, k2 = 1.00
+Profundidad máxima:     y_max = 149.56 m
+Aceleración en y_max:   a_max = -5.16 m/s^2 (0.53 g)
+
+
+--- COMPARACIÓN Y ANÁLISIS ---
+k1 (Sin Aire): 8.5000  vs  k1 (Con Aire): 12.2500
+La resistencia del aire disipa energía del sistema. Esto significa que, para una misma cuerda, el saltador no caerá tan profundo.
+Para compensar esta pérdida de energía y alcanzar la misma profundidad objetivo, se necesita una cuerda 'más blanda', es decir, con una constante elástica k1 menor.

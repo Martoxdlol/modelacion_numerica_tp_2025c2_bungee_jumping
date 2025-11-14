@@ -1,0 +1,12 @@
+==================================================
+PUNTO 6: Dimensionamiento SIN Resistencia del Aire
+==================================================
+Iniciando búsqueda de parámetros...
+Condiciones: 135.0m < y_max < 150.0m | |a_max| < 24.53 m/s^2
+  Probando: k1 = 8.500, k2 = 1.2....
+¡Solución encontrada!                       
+
+--- Resultados (Sin Aire) ---
+Parámetros encontrados: k1 = 8.5000, k2 = 1.25
+Profundidad máxima:     y_max = 149.78 m
+Aceleración en y_max:   a_max = -23.14 m/s^2 (2.36 g)

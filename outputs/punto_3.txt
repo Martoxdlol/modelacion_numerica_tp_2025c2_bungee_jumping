@@ -1,0 +1,23 @@
+--- ANÁLISIS NUMÉRICO - BUNGEE JUMPING ---
+Parámetros: m=81.89 kg, L0=49.46 m, k1=47.97 N/m
+Punto más bajo (Solución Analítica): 110.22 m
+
+==================================================
+PUNTO 3: MÉTODO DE EULER
+==================================================
+Buscando h para un error < 0.1% en Euler...
+  h = 0.10000, y_max = 114.2709 m, Error = 3.6753%
+  h = 0.05000, y_max = 112.2106 m, Error = 1.8060%
+  h = 0.02500, y_max = 111.1991 m, Error = 0.8883%
+  h = 0.01250, y_max = 110.7059 m, Error = 0.4408%
+  h = 0.00625, y_max = 110.4604 m, Error = 0.2181%
+  h = 0.00313, y_max = 110.3382 m, Error = 0.1072%
+  h = 0.00156, y_max = 110.2772 m, Error = 0.0519%
+
+Se encontró un paso h = 0.00156 que cumple el requisito.
+
+Comprobando el orden del método de Euler...
+  Error con h1=0.005: 0.191401
+  Error con h2=0.0025: 0.093766
+  Orden experimental calculado: 1.0295
+El resultado es cercano a 1, lo cual es el orden teórico de Euler.

@@ -1,0 +1,20 @@
+--- ANÁLISIS NUMÉRICO - BUNGEE JUMPING ---
+Parámetros: m=81.89 kg, L0=49.46 m, k1=47.97 N/m
+Punto más bajo (Solución Analítica): 110.22 m
+
+
+==================================================
+PUNTO 4: MÉTODO DE RUNGE-KUTTA DE ORDEN 4
+==================================================
+Buscando h para un error < 0.1% en RK4...
+  h = 1.0000, y_max = 108.9937 m, Error = 1.1126%
+  h = 0.5000, y_max = 109.5077 m, Error = 0.6463%
+  h = 0.2500, y_max = 110.2061 m, Error = 0.0126%
+
+Se encontró un paso h = 0.2500 que cumple el requisito.
+
+Comprobando el orden del método de Runge-Kutta 4...
+  Error con h1=0.5: 0.712299
+  Error con h2=0.25: 0.013936
+  Orden experimental calculado: 5.6756
+El resultado es cercano a 4, lo cual es el orden teórico de RK4.
