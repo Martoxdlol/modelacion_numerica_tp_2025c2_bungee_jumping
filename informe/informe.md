@@ -6,7 +6,7 @@
 *   Tomás Cichero (Padrón: 107973)
 *   Valeria Brzoza (Padrón: 107523)
 
-Repositorio con el código: [https://github.com/Martoxdlol/modelacion_numerica_tp_2025c2_bungee_jumping](https://github.com/Martoxdlol/modelacion_numerica_tp_2025c2_bungee_jumping)
+Repositorio con el código: [modelacion_numerica_tp_2025c2_bungee_jumping](https://github.com/Martoxdlol/modelacion_numerica_tp_2025c2_bungee_jumping)
 
 ---
 
