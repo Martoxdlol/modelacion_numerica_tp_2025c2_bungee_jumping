@@ -13,6 +13,8 @@ En este repositorio se incluye la solución al trabajo práctico de Modelación 
 - `src/`: Código fuente utilizado para las simulaciones y análisis.
 - `outputs/`: Carpeta que contiene las imágenes y gráficos generados durante el análisis y simulaciones.
 
+[Ver informe completo aquí](informe/informe.md)
+
 ## Instrucciones para Ejecutar el Código
 
 1. Instalar dependencias necesarias:
